@@ -12,7 +12,7 @@ class Plugboard {
     }
 
     public String process(String wire) {
-        // text
+        System.out.println();
     }
 }
 class InvalidPlugboardWiresException extends Exception{
